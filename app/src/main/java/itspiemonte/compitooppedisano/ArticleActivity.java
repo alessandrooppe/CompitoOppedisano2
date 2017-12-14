@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import it.itspiemonte.compitino.R;
+
 
 /**
  * Created by alessandro on 14/12/17.
